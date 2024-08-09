@@ -10,3 +10,7 @@ class Person:
 
 x = Person("John", "Doe")
 x.printname()
+
+print(10 + 5)
+print(10 -5)
+print(10 * 5)
